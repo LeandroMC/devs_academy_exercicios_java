@@ -1,4 +1,4 @@
-package _04_loops_e_arrays;
+package _04_loops_e_arrays.lista01;
 
 import java.time.LocalDate;
 import java.util.Arrays;
