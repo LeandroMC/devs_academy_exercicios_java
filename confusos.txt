@@ -1,3 +1,0 @@
-_08_collection_estrutura_de_dados\lista01\_02
-_08_collection_estrutura_de_dados\lista01\_03
-_09_excecoes\ex01\ex_01_02.java - inicializar como null?
